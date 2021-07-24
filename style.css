@@ -693,6 +693,18 @@ h4 {
 
 /* AJOUT CSS ACCESS / SEO */
 
+strong {
+    font-weight: normal;
+}
+
+@media (min-width: 1921px) {
+    .bloc-resize-highres {
+        width: 1920px;
+        border-radius: 1em;
+        margin: auto;
+    }
+}
+
 #bloc-8 {
     line-height: 2.5em;
 }
